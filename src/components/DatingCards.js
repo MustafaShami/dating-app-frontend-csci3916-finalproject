@@ -36,8 +36,7 @@ const DatingCards = () => {
                         key={person.name}
                         preventSwipe={['up', 'down']}
                         onSwipe={(dir) => swiped(dir, person.name)}
-                        onCardLeftScreen={() => outOfFrame(person.name)}
-                        onCardRightScreen={() => outOfFrame((person.name))}>
+                        onCardLeftScreen={() => outOfFrame(person.name)}>
                         <div style={{ backgroundImage: `url(${person.imgUrl})`}} className="card">
                             <h3>{person.name}</h3>
                         </div>
