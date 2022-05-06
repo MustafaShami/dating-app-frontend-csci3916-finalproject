@@ -14,25 +14,26 @@
 .swipeButtons__repeat{
     padding: 25px !important;
     /*color: #f5b7*/
-    color: #f5b748;
+    color: #f5b748 !important;
+
 }
 
 .swipeButtons__left{
     padding: 25px !important;
-    color: #A00B2B;
+    color: #FF3B1C !important;
 }
 
 .swipeButtons__star {
     padding: 25px !important;
-    color: #1D3EF4
+    color: #06D0F9 !important;
 }
 
 .swipeButtons__right {
     padding: 25px !important;
-    color: #17DA7B;
+    color: #17DA7B !important;
 }
 
 .swipeButtons__lightning {
     padding: 25px !important;
-    color: #700CE8;
+    color: #700CE8 !important;
 }
