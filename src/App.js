@@ -1,13 +1,13 @@
 import './App.css';
 import Header from './components/Header';
+import DatingCards from './components/DatingCards';
 
 function App() {
   return (
-      <Header>
-          <div className="app">
-              <h1>Dating App using MERN stack</h1>
-          </div>
-      </Header>
+      <div className={"app"}>
+          <Header />
+          < DatingCards />
+      </div>
   );
 }
 
