@@ -16,3 +16,7 @@
     background-size: cover;
     background-position: center;
 }
+
+.swipe{
+    position:absolute;
+}
