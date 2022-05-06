@@ -12,6 +12,7 @@ const Header = () => {
             <IconButton>
                 <PersonIcon fontSize="large" className="header__icon" />
             </IconButton>
+            <h1>BTT Dating App</h1>
             <img className="header__logo" src="logo192.png" alt="header" />
             <IconButton>
                 <ForumIcon fontSize="large" className="header__icon" />
