@@ -18,6 +18,10 @@
     background-position: center;
 }
 
+mark{
+    background-color: beige;
+}
+
 .swipe{
     position:absolute;
 }
