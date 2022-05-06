@@ -23,7 +23,7 @@ const SwipeButtons = () => {
             </IconButton>
 
             <IconButton className="swipeButtons__right">
-                <FlashOnIcon fontSize="large" />
+                <FavoriteIcon fontSize="large" />
             </IconButton>
 
             <IconButton className="swipeButtons__lightning">
