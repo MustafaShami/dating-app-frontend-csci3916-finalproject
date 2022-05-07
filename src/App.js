@@ -2,10 +2,10 @@ import './App.css';
 import Header from './components/Header';
 import DatingCards from './components/DatingCards';
 import SwipeButtons from './components/SwipeButtons';
-import Authentication from './components/authentication';
-import {HashRouter, Route} from 'react-router-dom';
-import { Provider } from 'react-redux';
-import store from './stores/store';
+// import Authentication from './components/authentication';
+// import {HashRouter, Route} from 'react-router-dom';
+// import { Provider } from 'react-redux';
+// import store from './stores/store';
 
 
 //Trying to implement authorization
