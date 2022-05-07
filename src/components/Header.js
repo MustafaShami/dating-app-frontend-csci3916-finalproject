@@ -1,12 +1,13 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './Header.css'
 import PersonIcon from '@material-ui/icons/Person'
 import IconButton from '@material-ui/core/IconButton'
 import ForumIcon from '@material-ui/icons/Forum'
-import {logoutUser} from "../actions/authActions";
-import {LinkContainer} from 'react-router-bootstrap';
-import {connect} from 'react-redux';
-import {Navbar, Nav} from 'react-bootstrap';
+//import  Component  from 'react';
+// import {logoutUser} from "../actions/authActions";
+// import {LinkContainer} from 'react-router-bootstrap';
+// import {connect} from 'react-redux';
+// import {Navbar, Nav} from 'react-bootstrap';
 
 // maybe add buttons to go to profile and to go to chat
 
